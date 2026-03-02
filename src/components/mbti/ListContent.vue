@@ -9,7 +9,7 @@
       >
         <div class="aspect-square mb-1">
           <img
-            :src="`/mbti/character/${type.toLowerCase()}.png`"
+            :src="`mbti/character/${type.toLowerCase()}.png`"
             :alt="type"
             class="w-[120%] h-full object-contain drop-shadow-md group-hover:scale-110 transition-transform duration-300"
           />

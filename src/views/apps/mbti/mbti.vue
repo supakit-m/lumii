@@ -18,7 +18,7 @@
           />
         </button>
 
-        <button
+        <!-- <button
           @click="navigateTo('home')"
           class="hover:scale-110 transition-transform active:scale-95"
         >
@@ -27,7 +27,7 @@
             alt="profile"
             class="w-12 h-12 object-contain drop-shadow-md"
           />
-        </button>
+        </button> -->
       </div>
 
       <div class="absolute inset-0 z-0">
@@ -202,9 +202,9 @@ export default {
       if (this.currentPage === "list")
         return "w-full bottom-[63%] z-80 text-2xl font-bold font-irish";
       if (this.currentPage === "detail")
-        return "w-full bottom-[40%] z-80 text-2xl font-bold font-bold";
+        return "w-full bottom-[35%] z-80 text-2xl font-bold font-bold";
       if (this.currentPage === "quiz")
-        return "w-full bottom-[32%]  z-80 text-xl font-bold ";
+        return "w-full top-[54%]  z-80 text-xl font-bold ";
       return "";
     },
     moonPositionClass() {

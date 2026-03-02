@@ -5,7 +5,7 @@ export const mbtiList = [
     name: "ISTP",
     title: "นักแก้ปัญหาเงียบ ๆ",
     group: "กลุ่มนักสำรวจ (SP)",
-    image: "/mbti/character/istp.png",
+    image: "mbti/character/istp.png",
     traits: {
       personality: "สุขุม ชอบลงมือทำ ไม่พูดเยอะ",
       strength: "แก้ปัญหาเฉพาะหน้าเก่ง",
@@ -19,7 +19,7 @@ export const mbtiList = [
     name: "ISFP",
     title: "ศิลปินผู้รักอิสระ",
     group: "กลุ่มนักสำรวจ (SP)",
-    image: "/mbti/character/isfp.png",
+    image: "mbti/character/isfp.png",
     traits: {
       personality: "อ่อนโยน รักความสวยงาม อยู่กับปัจจุบัน",
       strength: "เซนส์ศิลปะดี เข้าใจความรู้สึก",
@@ -33,7 +33,7 @@ export const mbtiList = [
     name: "ESTP",
     title: "ผู้กล้าได้กล้าเสีย",
     group: "กลุ่มนักสำรวจ (SP)",
-    image: "/mbti/character/estp.png",
+    image: "mbti/character/estp.png",
     traits: {
       personality: "คล่องแคล่ว รักสนุก ชอบความท้าทาย",
       strength: "ปรับตัวไว ตัดสินใจเด็ดขาด",
@@ -47,7 +47,7 @@ export const mbtiList = [
     name: "ESFP",
     title: "ผู้สร้างความบันเทิง",
     group: "กลุ่มนักสำรวจ (SP)",
-    image: "/mbti/character/esfp.png",
+    image: "mbti/character/esfp.png",
     traits: {
       personality: "ร่าเริง มนุษย์สัมพันธ์ดี เป็นกันเอง",
       strength: "สร้างบรรยากาศเก่ง เข้ากับคนง่าย",
@@ -63,7 +63,7 @@ export const mbtiList = [
     name: "INTJ",
     title: "นักวางกลยุทธ์ผู้รอบคอบ",
     group: "กลุ่มนักวิเคราะห์ (NT)",
-    image: "/mbti/character/intj.png",
+    image: "mbti/character/intj.png",
     traits: {
       personality: "มีความเป็นส่วนตัวสูง เชื่อมั่นในเหตุผล",
       strength: "คิดวิเคราะห์เป็นระบบ มองการณ์ไกล",
@@ -77,7 +77,7 @@ export const mbtiList = [
     name: "INTP",
     title: "นักคิดเชิงตรรกะ",
     group: "กลุ่มนักวิเคราะห์ (NT)",
-    image: "/mbti/character/intp.png",
+    image: "mbti/character/intp.png",
     traits: {
       personality: "ช่างสังเกต ชอบค้นหาความจริง",
       strength: "คิดนอกกรอบ แก้โจทย์ยากๆ ได้ดี",
@@ -91,7 +91,7 @@ export const mbtiList = [
     name: "ENTJ",
     title: "ผู้นำที่มีวิสัยทัศน์",
     group: "กลุ่มนักวิเคราะห์ (NT)",
-    image: "/mbti/character/entj.png",
+    image: "mbti/character/entj.png",
     traits: {
       personality: "เด็ดขาด มีพลัง ชอบความท้าทาย",
       strength: "จัดระเบียบและคุมทีมได้ดีเยี่ยม",
@@ -105,7 +105,7 @@ export const mbtiList = [
     name: "ENTP",
     title: "นักคิดปราดเปรื่อง",
     group: "กลุ่มนักวิเคราะห์ (NT)",
-    image: "/mbti/character/entp.png",
+    image: "mbti/character/entp.png",
     traits: {
       personality: "ฉลาด มีไหวพริบ ชอบโต้แย้งทางความคิด",
       strength: "คิดไอเดียใหม่ๆ ได้ตลอดเวลา",
@@ -121,7 +121,7 @@ export const mbtiList = [
     name: "ISTJ",
     title: "ผู้ตรวจการเจ้าระเบียบ",
     group: "กลุ่มนักปกป้อง (SJ)",
-    image: "/mbti/character/istj.png",
+    image: "mbti/character/istj.png",
     traits: {
       personality: "ซื่อตรง ยึดมั่นในกฎเกณฑ์",
       strength: "มีความรับผิดชอบสูงมาก",
@@ -135,7 +135,7 @@ export const mbtiList = [
     name: "ISFJ",
     title: "ผู้พิทักษ์ผู้อ่อนโยน",
     group: "กลุ่มนักปกป้อง (SJ)",
-    image: "/mbti/character/isfj.png",
+    image: "mbti/character/isfj.png",
     traits: {
       personality: "ใจดี มีน้ำใจ ใส่ใจรายละเอียด",
       strength: "ดูแลและสนับสนุนคนรอบข้างได้ดี",
@@ -149,7 +149,7 @@ export const mbtiList = [
     name: "ESTJ",
     title: "ผู้บริหารที่มีระบบ",
     group: "กลุ่มนักปกป้อง (SJ)",
-    image: "/mbti/character/estj.png",
+    image: "mbti/character/estj.png",
     traits: {
       personality: "มีความเป็นผู้นำสูง ชัดเจน",
       strength: "ผลักดันงานให้สำเร็จตามเป้า",
@@ -163,7 +163,7 @@ export const mbtiList = [
     name: "ESFJ",
     title: "ผู้ให้ความช่วยเหลือ",
     group: "กลุ่มนักปกป้อง (SJ)",
-    image: "/mbti/character/esfj.png",
+    image: "mbti/character/esfj.png",
     traits: {
       personality: "ชอบเข้าสังคม รักพวกพ้อง",
       strength: "สร้างความสามัคคีได้ดี",
@@ -179,7 +179,7 @@ export const mbtiList = [
     name: "INFJ",
     title: "นักพยากรณ์ผู้ลึกลับ",
     group: "กลุ่มผู้มอบแรงบันดาลใจ (NF)",
-    image: "/mbti/character/infj.png",
+    image: "mbti/character/infj.png",
     traits: {
       personality: "เห็นอกเห็นใจคนอื่น มีอุดมการณ์",
       strength: "เข้าใจความรู้สึกที่ซับซ้อน",
@@ -193,7 +193,7 @@ export const mbtiList = [
     name: "INFP",
     title: "นักฝันผู้มีอุดมการณ์",
     group: "กลุ่มผู้มอบแรงบันดาลใจ (NF)",
-    image: "/mbti/character/infp.png",
+    image: "mbti/character/infp.png",
     traits: {
       personality: "อ่อนไหว รักสันติ มองโลกในแง่ดี",
       strength: "มีความคิดสร้างสรรค์สูง",
@@ -207,7 +207,7 @@ export const mbtiList = [
     name: "ENFJ",
     title: "ผู้นำทางจิตวิญญาณ",
     group: "กลุ่มผู้มอบแรงบันดาลใจ (NF)",
-    image: "/mbti/character/enfj.png",
+    image: "mbti/character/enfj.png",
     traits: {
       personality: "มีเสน่ห์ โน้มน้าวใจเก่ง",
       strength: "ดึงศักยภาพผู้อื่นออกมาได้",
@@ -221,7 +221,7 @@ export const mbtiList = [
     name: "ENFP",
     title: "นักรณรงค์ผู้ร่าเริง",
     group: "กลุ่มผู้มอบแรงบันดาลใจ (NF)",
-    image: "/mbti/character/enfp.png",
+    image: "mbti/character/enfp.png",
     traits: {
       personality: "กระตือรือร้น มีจินตนาการกว้างไกล",
       strength: "มองเห็นความเป็นไปได้ใหม่ๆ",

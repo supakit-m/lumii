@@ -26,7 +26,7 @@
           <div
             class="bg-white/20 border border-white/40 rounded-[2.5rem] p-8 w-full shadow-2xl backdrop-blur-sm"
           >
-            <div class="space-y-4 mt-34">
+            <div class="space-y-4 mt-30">
               <button
                 v-for="(option, index) in currentQuestion.options"
                 :key="index"
