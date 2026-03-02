@@ -2,7 +2,7 @@ name: Deploy Vue App to Pages
 
 on:
   push:
-    branches: ["main"] # หรือชื่อ branch หลักของคุณ
+    branches: ["main"]
 
 permissions:
   contents: read
