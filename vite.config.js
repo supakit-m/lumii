@@ -5,6 +5,7 @@ import { fileURLToPath, URL } from 'node:url'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/lumii/',
   plugins: [
     vue(),
     tailwindcss(),
@@ -17,5 +18,4 @@ export default defineConfig({
   server: {
     port: 5173,
   }
-
 })
