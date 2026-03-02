@@ -9,7 +9,7 @@
             class="relative w-full aspect-5/6 overflow-hidden rounded-4xl shadow-2xl border-x-2 border-white/30"
           >
             <img
-              :src="currentQuestion.image || '/mbti/bg/moon.png'"
+              :src="currentQuestion.image || 'mbti/bg/moon.png'"
               class="absolute inset-0 w-full h-full object-cover z-10"
               alt="quiz-image"
             />
