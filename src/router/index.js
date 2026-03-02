@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import Mbti from '@/views/apps/mbti/mbti.vue'
 
 const routes = [
@@ -9,9 +9,8 @@ const routes = [
     }
 ];
 
-
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHashHistory(import.meta.env.BASE_URL), 
     routes
 });
 
